@@ -1,1 +1,3 @@
-# Shopping_Manage
+# 这是基于ssh的网上商城
+## 看起来没有什么bug
+### 使用方法也很简单，下载后改一下数据库密码，修改数据库名称，把项目加载到tomcat之类的服务器就能生成表。然后把hibernate.cfg.xml里的create改为update就好了，然后按照网页流程走。应该问题不大。
